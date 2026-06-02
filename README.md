@@ -41,15 +41,19 @@ Processed raw Glottolog data to create structured datasets suitable for analysis
 
 ### Distribution of Languages by Family
 
-*Insert chart screenshot here*
+<img width="3000" height="2100" alt="chart1" src="https://github.com/user-attachments/assets/ff6aefc0-6513-47de-873a-5316ffb1462a" />
+
+
 
 ### Top Language Families
 
-*Insert chart screenshot here*
+<img width="4143" height="1034" alt="chart2" src="https://github.com/user-attachments/assets/86703e5f-eafb-41f0-a16a-d8b6dba8098e" />
+
 
 ### Language Classification Analysis
 
-*Insert chart screenshot here*
+<img width="2354" height="1452" alt="chart3" src="https://github.com/user-attachments/assets/22eaa0ee-84a7-4a8b-a274-15d276155aee" />
+
 
 ## Repository
 
