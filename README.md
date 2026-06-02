@@ -1,17 +1,65 @@
-# Yappers
+# Languages of the World Analysis
 
-This project explores languages of the world using data from Glottolog.
+## Business Question
 
-## Files
-
-- `Yappers.ipynb` — Main Jupyter notebook containing the analysis.
+What insights can be discovered about the world's languages and language families using the Glottolog dataset?
 
 ## Dataset
 
-The dataset is sourced from Glottolog's language classification data.
+**Source:** Glottolog CLDF Dataset
 
-## Technologies Used
+**Features:** Language ID, Language Name, Family Classification, Language Status, Geographic Information
 
-- Python
-- Pandas
-- Jupyter Notebook
+## Tools & Libraries
+
+* Python
+* Pandas
+* Jupyter Notebook
+
+## Key Findings
+
+* Identified major language families and their relative representation.
+* Explored relationships between languages and their parent families.
+* Cleaned and transformed large-scale linguistic classification data.
+* Generated insights into global linguistic diversity and language distribution.
+
+## Analysis Performed
+
+### Language Family Distribution
+
+Examined the number of languages belonging to each language family and identified the largest language groups.
+
+### Language Classification Structure
+
+Analyzed hierarchical relationships between language families and individual languages.
+
+### Data Cleaning & Transformation
+
+Processed raw Glottolog data to create structured datasets suitable for analysis.
+
+## Visualisations
+
+### Distribution of Languages by Family
+
+*Insert chart screenshot here*
+
+### Top Language Families
+
+*Insert chart screenshot here*
+
+### Language Classification Analysis
+
+*Insert chart screenshot here*
+
+## Repository
+
+* `Yappers.ipynb` – Main analysis notebook
+* `README.md` – Project documentation
+
+## Future Improvements
+
+* Add interactive visualisations.
+* Explore geographic distribution of languages.
+* Analyze endangered and extinct languages.
+* Build language-family network graphs.
+****
